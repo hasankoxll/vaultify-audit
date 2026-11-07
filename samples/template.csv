@@ -1,0 +1,2 @@
+supplier_id,supplier_name,invoice_number,invoice_date,amount,currency,payment_status,document_kind
+SUP-100,Example Supplier,INV-1001,2026-01-15,1500.00,SAR,unpaid,invoice

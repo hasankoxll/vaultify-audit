@@ -1,0 +1,32 @@
+supplier_id,supplier_name,invoice_number,invoice_date,amount,currency,payment_status,document_kind
+SUP-001,Acme Trading,INV-100,2026-01-10,1000.00,SAR,paid,invoice
+SUP-001,Acme Trading,INV-100,2026-01-10,1000.00,SAR,unpaid,invoice
+SUP-001,Acme Trading,INV-100,2026-01-12,1000.00,SAR,unpaid,invoice
+SUP-002,Beta Industrial,INV-200,2026-02-01,500.00,SAR,paid,invoice
+SUP-002,Beta Industrial,INV-200,2026-02-03,450.00,SAR,unpaid,invoice
+SUP-010,Kappa Logistics,INV-1001,2026-09-01,250.00,SAR,unpaid,invoice
+SUP-010,Kappa Logistics,inv 1001,2026-09-01,250.00,SAR,paid,invoice
+SUP-009,Iota Components,INV-900,2026-08-02,1000.00,EUR,paid,invoice
+SUP-009,Iota Components LLC,INV-900,2026-08-02,1000.00,EUR,unpaid,invoice
+SUP-003,Gamma Services,INV-300,2026-03-01,2000.00,SAR,paid,invoice
+SUP-003,Gamma Services,INV-301,2026-03-02,2000.00,SAR,unpaid,invoice
+SUP-003,Gamma Services,INV-302,2026-03-01,2000.00,USD,paid,invoice
+SUP-011,Lambda Parts,INV-1100,2026-01-01,100.00,SAR,unpaid,invoice
+SUP-011,Lambda Parts,INV-1100,2026-01-01,100.00,USD,unpaid,invoice
+SUP-004,Delta Paper,INV-400,2026-04-01,-150.00,SAR,credit,credit
+SUP-004,Delta Paper,INV-400,2026-04-02,-150.00,SAR,credit,credit
+SUP-005,Epsilon Works,INV-500-1,2026-05-01,300.00,SAR,unpaid,installment
+SUP-005,Epsilon Works,INV-500-2,2026-05-01,300.00,SAR,unpaid,installment
+SUP-006,Zeta Telecom,INV-600,2026-06-01,800.00,SAR,paid,recurring
+SUP-006,Zeta Telecom,INV-600,2026-07-01,800.00,SAR,paid,recurring
+SUP-007,Eta Facilities,,2026-06-15,100.00,SAR,unpaid,invoice
+,,INV-700,2026-06-15,100.00,SAR,unpaid,invoice
+SUP-008,Theta Clinic,INV-800,2026-08-01,750.50,SAR,unpaid,invoice
+SUP-012,Mu Office,INV-1200,2026-01-05,640.00,SAR,unpaid,invoice
+SUP-012,Mu Office,INV-1201,2026-01-06,640.00,SAR,unpaid,invoice
+SUP-013,Sigma Print,INV-1300,2026-10-01,50.00,SAR,cancelled,invoice
+SUP-013,Sigma Print,INV-1300,2026-10-01,50.00,SAR,cancelled,invoice
+,North Wind LLC,INV-777,2026-11-01,80.00,SAR,unpaid,invoice
+,"north wind, llc",INV-777,2026-11-01,80.00,SAR,unpaid,invoice
+SUP-014,شركة النور للتجارة,INV-1400,2026-12-01,125.00,SAR,unpaid,invoice
+SUP-014,شركة النور للتجارة,INV-1400,2026-12-01,125.00,SAR,unpaid,invoice
