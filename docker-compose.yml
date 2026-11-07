@@ -1,0 +1,15 @@
+services:
+  vaultify-audit:
+    build: .
+    ports:
+      - "127.0.0.1:8787:8787"
+    environment:
+      VA_HOST: 0.0.0.0
+      VA_PORT: "8787"
+      VA_DATA_DIR: /data
+      VA_ENABLE_DEMO: "true"
+      VA_COOKIE_SECURE: "false"
+    volumes:
+      - vaultify-audit-data:/data
+volumes:
+  vaultify-audit-data:

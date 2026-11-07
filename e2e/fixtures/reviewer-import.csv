@@ -1,0 +1,3 @@
+supplier_id,supplier_name,invoice_number,invoice_date,amount,currency,payment_status,document_kind
+SUP-NEW,Harbor Office,INV-NEW,2026-07-01,42.00,SAR,unpaid,invoice
+SUP-NEW,Harbor Office,INV-BAD,2026-02-31,10.00,SAR,unpaid,invoice
